@@ -7,7 +7,7 @@ Codebuch Testat
 
 Edge-Attribute
 
-id: codiert mit Nachnamen
+from: codiert mit Nachnamen
 
 to: id,vorherige Vereine und Heimatland
 
@@ -19,7 +19,7 @@ id: codiert mit Nachnamen
 
 name: vollständiger Name
 
-type: 0: Person 1: Verein
+type: 1: Person 2: Verein
 
 birth: Geburtsjahr
 
@@ -34,4 +34,5 @@ position: 1: Mittelblock
 4: Diagonal
 5: Libero
 
-country: Heimatland
+country: 1: nicht Deutschland
+2: Deutschland
