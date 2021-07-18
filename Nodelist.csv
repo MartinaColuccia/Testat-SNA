@@ -1,0 +1,40 @@
+id,name,type,birth,age,position,country
+lohuis,Juliet Lohuis,1,1996,2,1,N
+todorova,Mira Todorova,1,1994,3,1,B
+timmerman,Eline Timmerman,1,1998,2,1,N
+kohn,Hannah Kohn,1,2003,1,2,D
+vandevyver,Ilka van de Vyver,1,1993,3,2,BE
+nowicka,Julia Nowicka,1,1998,2,2,P
+lee,Simone Lee,1,1996,2,3,USA
+dornheim,Helena Dornheim,1,2004,1,3,D
+palleres,Maria Palleres,1,1992,3,3,S
+jasper,Hester Jasper,1,2001,2,3,N
+rivers,Krystal Rivers,1,1994,3,4,USA
+berger,Lara Berger,1,2001,1,4,D
+koskelo,Roosa Koskelo,1,1991,3,5,F
+grundt,Lena Grundt,1,2004,1,5,USA
+TP,Talentteam Papendal,2,,,,
+RC,RC Cannes,2,,,,
+BSPS,Bundesstützpunkt Stuttgart,2,,,,
+SU,Setup 65,2,,,,
+EA,Eurospeed Almelo,2,,,,
+VC,Volero Cannet,2,,,,
+CV,Le Cannet Volley Ball,2,,,,
+VCS,VC Sneek,2,,,,
+CVB,CV Barcelona,2,,,,
+LPV,LP Viesti,2,,,,
+SP,Sm´Aesch Pfeffingen,2,,,,
+BA,Beziers Angels,2,,,,
+GBL,Grot Budowlani Łódź,2,,,,
+AA,Alterno Apeldoorn,2,,,,
+PSU,Penn State Univ.,2,,,,
+VFBU,VfB Ulm,2,,,,
+USC,USC Münster,2,,,,
+D,Deutschland,2,,,,
+N,Niederlande,2,,,,
+B,Bulgarien,2,,,,
+BE,Belgien,2,,,,
+USA,USA,2,,,,
+P,Polen,2,,,,
+S,Spanien,2,,,,
+F,Finnland,2,,,,
