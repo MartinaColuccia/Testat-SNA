@@ -13,9 +13,26 @@ to: id,vorherige Vereine und Heimatland
 
 
 
-Node-Attribute
+*Node-Attribute*
 
-id: codiert mit Nachnamen
+id: Spielerinnen codiert mit Nachname, Ex-Vereine(ersten 2-3 Buchstaben), Heimatland
+TP: Talentteam Papendal	
+RC: RC Cannes			
+BSPS: Bundesstützpunkt Stuttgart					
+SU: Setup 65					
+EA: Eurospeed Almelo					
+VC:	Volero Cannet					
+CV:	Le Cannet Volley Ball		
+VCS:	VC Sneek				
+CVB:	CV Barcelona					
+LPV:	LP Viesti				
+SP:	Sm´Aesch Pfeffingen					
+BA:	Beziers Angels					
+GBL:	Grot Budowlani Łódź				
+AA:	Alterno Apeldoorn					
+PSU:	Penn State Univ.					
+VFBU:	VfB Ulm					
+USC:	USC Münster
 
 name: vollständiger Name
 
@@ -34,5 +51,11 @@ position: 1: Mittelblock
 4: Diagonal
 5: Libero
 
-country: 1: nicht Deutschland
-2: Deutschland
+country: D: Deutschland
+B: Bulgarien
+BE: Belgien 
+S: Spanien
+F: Finnland
+P: Polen
+N: Niederlande
+USA: USA
