@@ -3,9 +3,9 @@ title: "Codebuch Testat"
 author: mc069
 ---
 
-<Codebuch Testat>
+Codebuch Testat
 
-<Edge-Attribute>
+*Edge-Attribute*
 
 from: codiert mit Nachnamen
 
