@@ -4,17 +4,15 @@ author: mc069
 ---
 
 Codebuch Testat
-
+---
 *Edge-Attribute*
-
+---
 from: codiert mit Nachnamen
 
 to: id,vorherige Vereine und Heimatland
 
-
-
 *Node-Attribute*
-
+---
 id: Spielerinnen codiert mit Nachname, Ex-Vereine(ersten 2-3 Buchstaben), Heimatland
 TP: Talentteam Papendal	
 RC: RC Cannes			
@@ -49,7 +47,7 @@ position: 1: Mittelblock
 2: Zuspiel
 3: Außenangriff
 4: Diagonal
-5: Libero
+5: Libera
 
 country: D: Deutschland
 B: Bulgarien
